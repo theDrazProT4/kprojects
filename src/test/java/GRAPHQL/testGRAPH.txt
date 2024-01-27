@@ -1,0 +1,8 @@
+      query {
+  character (id:<idCharacter>){
+    name,
+    status,
+    species,
+    gender
+  }
+  }
